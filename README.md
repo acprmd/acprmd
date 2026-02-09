@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Andika C. Pramoedya👋
 
-<!--
-**acprmd/acprmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer.
 
-Here are some ideas to get you started:
+Currently using React as my go-to tool for web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚒️ Tech Stacks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-23272E?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-23272E?logo=nodedotjs&logoColor=5FA04E)
+
+
+## ⛓️‍💥 Connect with me
+<a href='https://www.linkedin.com/in/acprmd/'><img src='https://www.svgrepo.com/show/157006/linkedin.svg' width=24 height=24/></a>
