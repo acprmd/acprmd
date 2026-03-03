@@ -11,7 +11,3 @@ Currently using React as my go-to tool for web apps.
 ![React](https://img.shields.io/badge/React-23272E?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-23272E?logo=nodedotjs&logoColor=5FA04E)
-
-
-## ⛓️‍💥 Connect with me
-<a href='https://www.linkedin.com/in/acprmd/'><img src='https://www.svgrepo.com/show/157006/linkedin.svg' width=24 height=24/></a>
